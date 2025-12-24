@@ -31,7 +31,7 @@
 2. 如果页面提示“无资格”，请直接点击下方的备用直达链接：
 👉 [Google One AI Student 权益页](https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached)
    如果节点纯净，可以看到以下页面：
-   <img width="801" height="608" alt="image" src="https://github.com/user-attachments/assets/9d5dab6c-de42-42fb-8063-c834fa50699e" />
+   <img width="1500" height="575" alt="image" src="https://github.com/user-attachments/assets/3aab912d-b354-49dd-9f21-17e0228bbba7" />
 
 ### 第四步：完成 SheerID 学生验证（核心环节）
 
