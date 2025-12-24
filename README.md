@@ -21,26 +21,30 @@
 ### 第二步：注册 Google 新账号
 
 1. 在无痕模式下注册一个新的 Google 账号。
-2. **技巧**：新账号通常可以跳过手机号验证；如果提示需要验证，建议使用流量卡接收短信。
+2. **技巧1**：新账号通常可以跳过手机号验证；如果提示需要验证，建议使用流量卡接收短信。
+3. **技巧2**：如果需要发送短信但是手机发不出去，可以在手机设置中的谷歌账号进行增加新账号。
 
 ### 第三步：访问申请页面
 
 1. 首先尝试访问：[Gemini Students 官网](https://gemini.google/students/)。
+   <img width="1506" height="509" alt="image" src="https://github.com/user-attachments/assets/2cc5c86b-6b22-4c21-9f83-06bf19ded7ea" />
 2. 如果页面提示“无资格”，请直接点击下方的备用直达链接：
 👉 [Google One AI Student 权益页](https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached)
+   如果节点纯净，可以看到以下页面：
+   <img width="801" height="608" alt="image" src="https://github.com/user-attachments/assets/9d5dab6c-de42-42fb-8063-c834fa50699e" />
 
 ### 第四步：完成 SheerID 学生验证（核心环节）
 
 这一步无需使用繁琐的 Telegram Bot，直接通过网页端工具完成。
 
-1. 打开验证辅助工具：[1Key Batch 验证页](https://batch.1key.me/)。
+1. 打开验证辅助工具：[1Key Batch 验证页](https://batch.1key.me/)。（有钱的捧个钱场）
+   <img width="1500" height="816" alt="image" src="https://github.com/user-attachments/assets/e90d6d58-063b-400f-9d6b-18cc314abb2a" />
 2. **操作细节**：
-* 在页面中获取验证请求后，**直接右键复制 SheerID 链接**（切记不要直接在浏览器打开该链接）。
+* 点击“验证资格条件”，**直接右键复制 SheerID 链接**（友情提示：不要直接在浏览器打开该链接）。
 * 将链接交由工具处理，等待验证完成。
 
-
 3. **注意**：如果提示失败，请尝试**更换节点**并**重新获取 SheerID 链接**进行多次尝试。
-4. 当页面显示 **"Successful"** 时，说明学生身份已通过验证！
+4. 当右侧页面显示 **"Successful"** 时，说明学生身份已通过验证！
 
 ### 第五步：绑定支付方式
 
