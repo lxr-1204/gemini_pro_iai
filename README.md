@@ -4,15 +4,28 @@
 
 ## 📌 核心准备
 
-在开始之前，请务必确保满足以下条件：
+### 1. 网络环境：纯净美区节点
+⚠️ 这是成功的决定性因素。建议优先选择：
 
-* **纯净美国节点**：这是成功率的决定性因素。建议使用独享 IP 或口碑较好的美区原生 IP。
-* **资金准备**：咸鱼购买虚拟 Visa 卡（约 10 元左右），用于绑定验证。
+* **独享 IP** 或口碑较好的 **美区原生 IP**，避免使用万人拥挤的公用节点。
 
-以下网址可以用于判断节点是否纯净：
-1. 如果你不知道自己的IP，可以用[Whatismyip](https://www.whatismyip.com/)查看
-2. 检查IP纯净度：[scamalytics](https://scamalytics.com/)，10以下欺诈值的IP是比较干净的
-<img width="1160" height="282" alt="image" src="https://github.com/user-attachments/assets/35c722b0-9612-42c0-9f4c-34a79d0d0ceb" />
+### 2. 支付工具：虚拟卡准备
+
+* 由于部分服务需要绑定信用卡验证，可在🐟等平台获取 **虚拟 Visa/Mastercard**（市场价约 10 元左右）。
+
+### 🔍 环境检测工具箱
+
+在操作前，建议通过以下工具自测节点质量：
+
+1. **IP 查询**：使用 [WhatIsMyIP](https://www.whatismyip.com/) 确认当前网络位置。
+2. **纯净度检测**：通过 [Scamalytics](https://scamalytics.com/) 检查欺诈分。
+> **标准参考**：欺诈分（Fraud Score）在 **10 以下** 的 IP 被视为高质量纯净节点。
+
+### 💡 资源分享
+
+> **免责声明**：以下🪜仅供参考，不作任何商业推荐或稳定性保证。🪜：[Sakuracat](https://sakuracat-003.com/register?code=JkfnqHdb)
+
+---
 
 ## 🛠️ 操作步骤
 
