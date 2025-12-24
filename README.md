@@ -11,7 +11,8 @@
 
 以下网址可以用于判断节点是否纯净：
 1. 如果你不知道自己的IP，可以用[Whatismyip](https://www.whatismyip.com/)查看
-2. 检查IP纯净度：[scamalytics](https://scamalytics.com/),10以下欺诈值的IP是比较干净的
+2. 检查IP纯净度：[scamalytics](https://scamalytics.com/)，10以下欺诈值的IP是比较干净的
+<img width="1160" height="282" alt="image" src="https://github.com/user-attachments/assets/35c722b0-9612-42c0-9f4c-34a79d0d0ceb" />
 
 ## 🛠️ 操作步骤
 
