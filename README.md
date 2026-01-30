@@ -76,6 +76,13 @@
 
 ---
 
+## 一些问题和解决方案
+1. Gemini提示出了点问题
+   <img width="1440" height="801" alt="image" src="https://github.com/user-attachments/assets/240dedb2-8d32-4c9f-9871-698a4fa56769" />
+   先放简单的方案，参考知乎答案：点击 https://gemini.google.com/gems/create?hl=en-US&pli=1 进入即可，不知道什么原理
+   如果不行，可以尝试下面的方案：Gemini显示“出了点问题”？ - Joyce Jim的回答 - 知乎
+https://www.zhihu.com/question/1916203992091964465/answer/1926331251138204107
+
 > **温馨提示**：
 > * 本方法依赖于 SheerID 验证机制，建议尽快操作以防政策变动。
 > * 参考资料：[知乎原帖](https://www.google.com/search?q=https://zhuanlan.zhihu.com/p/1985641870672560832)
